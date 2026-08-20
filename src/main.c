@@ -29,7 +29,7 @@ int main(void)
         //limpio
         cfb_framebuffer_clear(dev,true);
         //escribo 
-        cfb_print(dev,"Hola Mundo",0,0);
+        cfb_print(dev,"Hola Familia!!",0,0);
         //finalizo
         cfb_framebuffer_finalize(dev);
 
